@@ -1,0 +1,47 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>????</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <nav id='navbar'>
+    <a class='nav-link' href='#projects'>projects</a> 
+  </nav>
+  <section id='welcome-section'>
+    <h1>hi</h1>
+  </section>
+
+  <section id='projects'>
+    <p class='project-tile'>
+    </p>
+    <a href=''>
+  </section>
+
+  <a id='profile-link' target='_blank' href=''>
+  
+  
+
+** end of index.html **
+
+** start of styles.css **
+
+@media (max-width: 768px) {
+  #navbar {
+    width: 358px;
+  }
+
+
+.welcome-section {
+  height: 100%
+}
+
+.navbar {
+  top: 0%
+}
+
+** end of styles.css **
+
